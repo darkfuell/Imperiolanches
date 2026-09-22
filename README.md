@@ -3,6 +3,10 @@
 Projeto de um cardápio digital responsivo desenvolvido
 para praticar HTML5 e CSS3.
 
+## Preview
+
+![Preview do site](páginaIncial.png)
+
 ## Tecnologias
 
 - HTML5
