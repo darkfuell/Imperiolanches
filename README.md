@@ -1,7 +1,6 @@
-# Projeto Extensâo Site Cardápio # Cardápio Responsivo
+# 🍔 Cardápio Responsivo
 
-Projeto de um cardápio digital responsivo desenvolvido
-para praticar HTML5 e CSS3.
+Projeto de um cardápio digital responsivo desenvolvido como projeto de extensão, com foco na aplicação prática de conhecimentos em HTML5 e CSS3.
 
 ## Preview
 
@@ -9,17 +8,20 @@ para praticar HTML5 e CSS3.
 
 ## Tecnologias
 
-- HTML5
-- CSS3
+* HTML5
+* CSS3
 
 ## Funcionalidades
 
-- Layout responsivo
-- Seções de lanches, bebidas, pizzas e porções
-- Cards de produtos
-- Adaptação para dispositivos móveis
+* Interface responsiva
+* Organização do cardápio por categorias
+* Apresentação dos produtos
+* Navegação entre as diferentes seções
+* Adaptação para diferentes dispositivos
+* Encaminhamento para canais de contato e redes sociais
+* Acesso à localização do estabelecimento
+* Redirecionamento para plataforma de pedidos
 
 ## Objetivo
 
-Projeto desenvolvido durante meus estudos de desenvolvimento
-web para praticar estruturação HTML e estilização com CSS.
+Desenvolver um projeto prático aplicando conceitos de desenvolvimento web, estruturação de páginas, estilização e responsividade com HTML5 e CSS3.
