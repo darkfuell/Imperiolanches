@@ -5,7 +5,7 @@ para praticar HTML5 e CSS3.
 
 ## Preview
 
-![Preview do site](páginaIncial.png)
+![Preview do site](pageInicial.png)
 
 ## Tecnologias
 
