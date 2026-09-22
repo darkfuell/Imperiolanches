@@ -1,2 +1,21 @@
-# Projeto-Extensão-site-cardápio
-Projeto de extensão desenvolvido para apoiar uma iniciativa comunitária, aplicando conhecimentos de HTML5 e CSS3 na criação de uma interface web responsiva.
+# Projeto-Extensão-site-cardápio# Cardápio Responsivo
+
+Projeto de um cardápio digital responsivo desenvolvido
+para praticar HTML5 e CSS3.
+
+## Tecnologias
+
+- HTML5
+- CSS3
+
+## Funcionalidades
+
+- Layout responsivo
+- Seções de lanches, bebidas, pizzas e porções
+- Cards de produtos
+- Adaptação para dispositivos móveis
+
+## Objetivo
+
+Projeto desenvolvido durante meus estudos de desenvolvimento
+web para praticar estruturação HTML e estilização com CSS.
