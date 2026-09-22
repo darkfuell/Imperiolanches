@@ -1,4 +1,4 @@
-# ImperioLanches# Cardápio Responsivo
+# Projeto Extensâo Site Cardápio # Cardápio Responsivo
 
 Projeto de um cardápio digital responsivo desenvolvido
 para praticar HTML5 e CSS3.
