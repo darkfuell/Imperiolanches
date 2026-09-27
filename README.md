@@ -1,6 +1,6 @@
 # 🍔 Cardápio Responsivo
 
-Projeto de um cardápio digital responsivo desenvolvido como projeto de extensão, com foco na aplicação prática de conhecimentos em HTML5 e CSS3.
+Projeto de um cardápio digital responsivo desenvolvido como projeto de extensão, com foco na aplicação prática de conhecimentos em HTML5 e CSS3 e suas respectivas boas práticas.
 
 ## Preview
 
